@@ -10,10 +10,10 @@ use \PhpOffice\PhpWord\TemplateProcessor;
 
 // use PhpOffice\PhpWord\TemplateProcessor;
 
-	$user_name = "root";
-	$user_pass = "wisel@123";
+	$user_name = "";
+	$user_pass = "";
 	$host_name = "localhost";
-	$db_name = "Fiverr1";
+	$db_name = "";
 
  	$name = $_POST["name"];
  	$email = $_POST["email"];
